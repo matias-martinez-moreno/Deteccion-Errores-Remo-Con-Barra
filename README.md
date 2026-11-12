@@ -31,7 +31,7 @@ Los resultados del artículo original (F1 de 0,63 y 0,53) se citan solo como ref
 - `remo_entrenamiento.ipynb`: preparación de datos, pose y recortes, comparación de redes y estrategias, ajuste de hiperparámetros, ensamble, umbrales, evaluación en prueba y Grad-CAM.
 - `remo_validaciones.ipynb`: variaciones de luz, nitidez y giro, y prueba con videos propios.
 
-Los notebooks están ejecutados y con sus salidas. Las figuras que mostraban fotos de Fitness-AQA se sustituyeron por dibujos esquemáticos, y los fotogramas de los videos propios tienen la cara difuminada.
+Los notebooks están ejecutados y con sus salidas. Las figuras que mostraban fotos de Fitness-AQA se sustituyeron por dibujos esquemáticos. Las figuras con fotogramas de mis videos tienen la cara difuminada o pixelada.
 
 ## Cómo ejecutarlo
 
